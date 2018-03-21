@@ -5,4 +5,4 @@ def subtraction(x,y):
 def multiplication(x,y):
     return x*Y
 def division(x,y):
-    pass
+    return x/y
